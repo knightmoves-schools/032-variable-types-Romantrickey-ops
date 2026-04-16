@@ -1,4 +1,4 @@
 var animalName = "john"
 var height = 3.14;
-var isIndoorPet = False;
+var IndoorPet = False;
 document.getElementById('string').innerHTML = animalName;
